@@ -1,0 +1,4 @@
+# 编解码：熵计算
+- insert:
+    - id: dsh-codec-entropy
+      name: "dsh-codec-entropy"

@@ -1,0 +1,4 @@
+# 编解码：Atbash 密码
+- insert:
+    - id: dsh-codec-atbash
+      name: "dsh-codec-atbash"

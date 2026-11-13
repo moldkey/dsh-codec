@@ -1,0 +1,4 @@
+# 编解码：ROT13
+- insert:
+    - id: dsh-codec-rot13
+      name: "dsh-codec-rot13"

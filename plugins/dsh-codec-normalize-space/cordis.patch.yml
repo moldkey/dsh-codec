@@ -1,0 +1,4 @@
+# 编解码：压缩空白
+- insert:
+    - id: dsh-codec-normalize-space
+      name: "dsh-codec-normalize-space"

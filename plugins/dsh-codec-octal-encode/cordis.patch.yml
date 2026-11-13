@@ -1,0 +1,4 @@
+# 编解码：八进制编码
+- insert:
+    - id: dsh-codec-octal-encode
+      name: "dsh-codec-octal-encode"

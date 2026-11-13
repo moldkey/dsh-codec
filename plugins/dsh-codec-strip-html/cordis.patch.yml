@@ -1,0 +1,4 @@
+# 编解码：去除 HTML 标签
+- insert:
+    - id: dsh-codec-strip-html
+      name: "dsh-codec-strip-html"

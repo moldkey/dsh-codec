@@ -1,0 +1,4 @@
+# 编解码：Base64 识别
+- insert:
+    - id: dsh-codec-b64-detect
+      name: "dsh-codec-b64-detect"

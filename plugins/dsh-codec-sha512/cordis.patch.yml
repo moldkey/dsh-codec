@@ -1,0 +1,4 @@
+# 编解码：SHA-512
+- insert:
+    - id: dsh-codec-sha512
+      name: "dsh-codec-sha512"

@@ -1,0 +1,4 @@
+# 编解码：HTML 转义
+- insert:
+    - id: dsh-codec-html-encode
+      name: "dsh-codec-html-encode"

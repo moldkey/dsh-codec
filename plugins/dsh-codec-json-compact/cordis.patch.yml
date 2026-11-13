@@ -1,0 +1,4 @@
+# 编解码：JSON 压缩
+- insert:
+    - id: dsh-codec-json-compact
+      name: "dsh-codec-json-compact"

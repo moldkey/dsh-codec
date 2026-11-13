@@ -1,0 +1,4 @@
+# 编解码：Base64 编码
+- insert:
+    - id: dsh-codec-base64-encode
+      name: "dsh-codec-base64-encode"

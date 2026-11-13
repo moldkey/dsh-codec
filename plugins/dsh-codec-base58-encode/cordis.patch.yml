@@ -1,0 +1,4 @@
+# 编解码：Base58 编码
+- insert:
+    - id: dsh-codec-base58-encode
+      name: "dsh-codec-base58-encode"

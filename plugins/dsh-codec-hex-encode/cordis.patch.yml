@@ -1,0 +1,4 @@
+# 编解码：十六进制编码
+- insert:
+    - id: dsh-codec-hex-encode
+      name: "dsh-codec-hex-encode"

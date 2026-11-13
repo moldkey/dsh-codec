@@ -1,0 +1,4 @@
+# 编解码：CRC32
+- insert:
+    - id: dsh-codec-crc32
+      name: "dsh-codec-crc32"

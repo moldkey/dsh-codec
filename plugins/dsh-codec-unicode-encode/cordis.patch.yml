@@ -1,0 +1,4 @@
+# 编解码：Unicode 转义
+- insert:
+    - id: dsh-codec-unicode-encode
+      name: "dsh-codec-unicode-encode"

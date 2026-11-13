@@ -1,0 +1,4 @@
+# 编解码：SHA-256
+- insert:
+    - id: dsh-codec-sha256
+      name: "dsh-codec-sha256"

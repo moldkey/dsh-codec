@@ -1,0 +1,4 @@
+# 编解码：Quoted-Printable 解码
+- insert:
+    - id: dsh-codec-qp-decode
+      name: "dsh-codec-qp-decode"

@@ -1,0 +1,4 @@
+# 编解码：凯撒密码
+- insert:
+    - id: dsh-codec-caesar
+      name: "dsh-codec-caesar"

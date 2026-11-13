@@ -1,0 +1,4 @@
+# 编解码：SQL 转义
+- insert:
+    - id: dsh-codec-sql-escape
+      name: "dsh-codec-sql-escape"

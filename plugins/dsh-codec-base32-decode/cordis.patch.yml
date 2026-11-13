@@ -1,0 +1,4 @@
+# 编解码：Base32 解码
+- insert:
+    - id: dsh-codec-base32-decode
+      name: "dsh-codec-base32-decode"

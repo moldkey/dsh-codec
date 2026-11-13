@@ -1,0 +1,4 @@
+# 编解码：URL 编码
+- insert:
+    - id: dsh-codec-url-encode
+      name: "dsh-codec-url-encode"

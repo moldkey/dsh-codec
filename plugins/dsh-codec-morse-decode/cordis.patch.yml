@@ -1,0 +1,4 @@
+# 编解码：摩斯解码
+- insert:
+    - id: dsh-codec-morse-decode
+      name: "dsh-codec-morse-decode"

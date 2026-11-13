@@ -1,0 +1,4 @@
+# 编解码：SHA-1
+- insert:
+    - id: dsh-codec-sha1
+      name: "dsh-codec-sha1"

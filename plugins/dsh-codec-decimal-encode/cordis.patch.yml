@@ -1,0 +1,4 @@
+# 编解码：十进制字节
+- insert:
+    - id: dsh-codec-decimal-encode
+      name: "dsh-codec-decimal-encode"

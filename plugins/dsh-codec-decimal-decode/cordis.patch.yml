@@ -1,0 +1,4 @@
+# 编解码：十进制解码
+- insert:
+    - id: dsh-codec-decimal-decode
+      name: "dsh-codec-decimal-decode"

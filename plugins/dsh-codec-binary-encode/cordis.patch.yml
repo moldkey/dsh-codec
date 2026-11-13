@@ -1,0 +1,4 @@
+# 编解码：二进制编码
+- insert:
+    - id: dsh-codec-binary-encode
+      name: "dsh-codec-binary-encode"
